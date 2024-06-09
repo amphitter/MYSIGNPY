@@ -27,5 +27,4 @@ Enter your name: John Doe
 Enter the name of the output file (with extension): signature.png
 Signature created successfully!
 
-its not working iknow i am solving the problem and i will solve it soon
-
+its not working iknow
